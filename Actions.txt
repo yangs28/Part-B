@@ -1,0 +1,21 @@
+Actions
+
+1) Foreign Aid 
+2) Coup 
+3) Income
+
+Character Actions 
+4) Tax 
+5) Assassination
+6) Exchange 
+7) Steal
+8) Block
+
+Counter Actions
+9) Block Foreign Aid
+10) Prevent Steal 
+11) Block Assassination
+
+Claiming Actions 
+12) Challenge 
+13) Reveal 
